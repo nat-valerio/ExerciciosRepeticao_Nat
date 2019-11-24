@@ -9,5 +9,3 @@
         echo "<br>";
     }
     echo "<hr>";
-
-    //Posso testar depois incluindo um if, onde não se pode adicionar zero.
