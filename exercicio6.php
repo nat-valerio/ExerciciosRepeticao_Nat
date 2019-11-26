@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Exercício 6</title>
     <style>
-        h1{
+        div{
             text-align: center;
         }
     </style>
