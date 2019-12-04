@@ -8,15 +8,16 @@
             
     if($x > $num1 | $x < $num2){
     echo "Números: $x,";
+    https://stackoverflow.com/questions/1293896/php-array-printing-using-a-loop
     }*/
 
     $num1 = $_GET["num1"];
     $num2 = $_GET["num2"];
+    $numeros = array($num1, $num2);
 
     echo "<hr>";
     echo "<h1>Numeros</h1>";
-    
-    do{
-        echo "Número: $x <br>";
-        $x++;
-    }while($x<=10);
+
+    for($i = 0; $i < $numeros.length ){
+
+    }
