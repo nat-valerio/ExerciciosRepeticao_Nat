@@ -1,5 +1,9 @@
 <?php
+    echo "<h1>Números primos</h1>"
 
-    $valor = $_GET["num"];
+    $valor = $_GET["valor"];
+
+
+
 
     
